@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pnsexim.com/sitemap.xml
